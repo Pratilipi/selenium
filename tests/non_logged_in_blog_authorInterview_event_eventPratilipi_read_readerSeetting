@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://hindi.pratilipi.com/" />
+<title>non_logged_in_blog_authorInterview_event_eventPratilipi_read_readerSeetting</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">non_logged_in_blog_authorInterview_event_eventPratilipi_read_readerSeetting</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/sachin-gupta/love-poems</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'संपादकीय')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//a/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'संपादकीय')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//a[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'ट्रांसलेशन चैलेन्ज प्रोजेक्ट')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'प्रतिलिपि कविता सम्मान-2017')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'ऑनलाइन स्पर्धाएं')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[@onclick=&quot;ga_CA( 'Event', 'Open' )&quot;])[7]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=img.img-large.loaded</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//pratilipi-see-more/div/div/button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//pratilipi-see-more/div/div/button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=पढ़िए</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Pratilipi', 'Settings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'IncreaseFontSize', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'IncreaseFontSize', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'DecreaseFontSize', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'DecreaseFontSize', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'BlackBkg', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'SepiaBkg', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'WhiteBkg', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'BlackBkg', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-reader-settings']/div/div/div[2]/div[4]/button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-reader-settings']/div/div/div[2]/div[4]/button[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-reader-settings']/div/div/div[2]/div[4]/button[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-reader-settings']/div/div/div[2]/div[4]/button[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'WhiteBkg', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-reader-settings']/div/div/div/button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Pratilipi', 'Share' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-share-dialog']/div/div/div/button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[3]/div/div/div/a/i</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'लेखकों के साक्षात्कार')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//a/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'लेखकों के साक्षात्कार')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//a[2]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'लेखकों के साक्षात्कार')])[2]</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

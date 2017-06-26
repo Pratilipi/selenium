@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://hindi.pratilipi.com/search?q=poems" />
+<title>logged_in_search_list_pratilipi_read_readerSeetting_bookmark_rating_review</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">logged_in_search_list_pratilipi_read_readerSeetting_bookmark_rating_review</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/search?q=poems</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.mdl-grid.mobile-grid</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=span.font-l</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//i[5]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Review', 'Add Rating' )&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=पढ़िए</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//i[5]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-reader-review-input-dialog']/div/div/div[2]/pratilipi-rating-input/i[4]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Review', 'Add Rating' )&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=पढ़िए</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Pratilipi', 'Settings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'IncreaseFontSize', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'IncreaseFontSize', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'DecreaseFontSize', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'DecreaseFontSize', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'BlackBkg', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'SepiaBkg', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'BlackBkg', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CAL( 'Pratilipi', 'WhiteBkg', 'ReaderSettings' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-reader-settings']/div/div/div[2]/div[4]/button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-reader-settings']/div/div/div[2]/div[4]/button[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-reader-settings']/div/div/div[2]/div[4]/button[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-reader-settings']/div/div/div[2]/div[4]/button[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-reader-settings']/div/div/div/button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Pratilipi', 'AddToLibrary' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=reader-report-content</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=रचना के बारे में रिपोर्ट करें</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=pratilipi_reader_report_content</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-reader-report-content']/div/div/div[3]/button[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Pratilipi', 'Share' );&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-share-dialog']/div/div/div/button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[3]/div/div/div/a/i</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Pratilipi', 'Add To Library' )&quot;]</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
