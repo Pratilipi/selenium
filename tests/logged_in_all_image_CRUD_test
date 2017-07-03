@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://hindi.pratilipi.com/" />
+<title>logged_in_all_image_CRUD_test</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">logged_in_all_image_CRUD_test</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.mdl-grid.mobile-grid</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=a.user-profile.hidden-xs &gt; span.font-s</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'User', 'UserProfileImageChange' )&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=uploadAuthorImageInput</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=uploadAuthorImageInput</td>
+	<td>/home/shreyans/Downloads/C360_2015-08-03-09-08-34-867.jpg</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'User', 'UserCoverImageChange' )&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=uploadAuthorCoverInput</td>
+	<td>/home/shreyans/Downloads/IMG_20150731_201156647.jpg</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Header', 'Write' )&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=pratilipi_write_title_input</td>
+	<td>बुक कवर अपलोड टेस्ट </td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=pratilipi_write_title_en_input</td>
+	<td>book cover upload test</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=pratilipi_write_type</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipiWrite']/div/div/div[2]/div[5]/div/ul/li</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipiWrite']/div/div/div[2]/div[6]/label/span[4]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=agree-terms-conditions</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@type='button']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.suggestion</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=button.pratilipi-red-background-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=4749430342287360</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.modal-footer.text-center &gt; button.pratilipi-red-background-modal-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=uploadPratilipiImageInput</td>
+	<td>/home/shreyans/Downloads/IMG_20150731_123146824.jpg</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=#publish_form &gt; div.modal-footer.text-center &gt; button.pratilipi-red-background-modal-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=#shareModal &gt; div.modal-dialog &gt; div.modal-content &gt; div.modal-header &gt; span.material-icons.close</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
