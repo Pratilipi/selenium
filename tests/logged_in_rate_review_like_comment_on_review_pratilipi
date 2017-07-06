@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://hindi.pratilipi.com/shreyans-maini/untitled-story-2017-6-22-06-22" />
+<title>logged_in_rate_review_like_comment_on_review_pratilipi</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">logged_in_rate_review_like_comment_on_review_pratilipi</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/shreyans-maini/untitled-story-2017-6-22-06-22</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.mdl-card__title</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//i[5]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Review', 'Add Rating' )&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[4]/div/div/div/div[2]/button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='pratilipi-review-input-dialog']/div/div/div[2]/pratilipi-rating-input/i[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=pratilipi_review_list_review_input</td>
+	<td>फिर रेटेड,&nbsp;&nbsp;नाउ रेटेड एंड रेविएवेद, </td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Review', 'Add Rating' )&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//span/button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Review', 'Add Comment' )&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=pratilipi-comment-input-6573573828247552-6100692090486784</td>
+	<td>टेस्ट कमेंट ऑन टेस्ट नोटिफिकेशन </td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@onclick=&quot;ga_CA( 'Review', 'Submit Comment' )&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[2]/span/button</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
